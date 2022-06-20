@@ -1,4 +1,4 @@
-# Loading library
+# Loading the required library
 library(tidyverse)
 
 # Importing the clinical file for the directory. 
