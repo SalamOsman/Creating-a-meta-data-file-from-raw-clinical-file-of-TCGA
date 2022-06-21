@@ -9,6 +9,7 @@ The clinical information of samples in TCGA is required to process the omics dat
 * After downloading, unzip the file, go to the extracted directory, and look at "All_CDEs.txt" by opening it in a text editor (The data looks like stars in the sky).
 * Open the script file (Preparing_meta_data_file.R) in R software (> v4.1). 
 * Import the "All_CDEs.txt" file into R by setting the file path.
-* Run! 
+* Run!   
 
+# Feel free for any feedback
 Email: salam.nurzai@gmail.com
