@@ -66,8 +66,3 @@ meta_data <- unite(meta_data, IDs, c(IDs, IDs_code), remove=FALSE, sep = "")
 # Writing the dataframe as a table in a local repository.
 write.table(meta_data[1:6], "C:/Users/User_name/Desktop/GitHub/HNSCC_DEGs/meta_data.txt",
             sep = "\t", row.names = F, quote = F)
-
-
-
-
-
