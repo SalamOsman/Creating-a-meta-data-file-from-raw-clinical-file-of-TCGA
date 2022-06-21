@@ -11,5 +11,5 @@ The clinical information of samples in TCGA is required to process the omics dat
 * Import the "All_CDEs.txt" file into R by setting the file path.
 * Run!   
 
-# Feel free for any feedback
+### Contact for any feedback
 Email: salam.nurzai@gmail.com
