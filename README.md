@@ -11,7 +11,9 @@ The clinical information of samples in TCGA is required to process the omics dat
 * Open the script file (Preparing_meta_data_file.R) in R software (> v4.1). 
 * The preprocessed mRNA fie for this analysis will named as "HNSC.mRNAseq_raw_counts" in the extracted directory. 
 * Import the "All_CDEs.txt" file into R by setting the file path.
-* Run!   
+* Run!
+
+# For cross-checking your results, open "meta_data.txt" file stored in this repository.
 
 ### Contact for any feedback
 Email: salam.nurzai@gmail.com
